@@ -1,0 +1,10 @@
+# ninja log v6
+1	383	1744904974883702117	CMakeFiles/GroupProjectpt2.dir/Game.cpp.o	6da4ac57dfb2e2e8
+7	2575	1744904618230854347	CMakeFiles/GroupProjectpt2.dir/Turn.cpp.o	dd282f370ba0d941
+383	421	1744904975265303600	GroupProjectpt2	7a55b1e3f47174b2
+2	382	1744903635870723605	CMakeFiles/GroupProjectpt2.dir/main.cpp.o	bcaa5050d22a82f3
+6	2585	1744904618230615889	CMakeFiles/GroupProjectpt2.dir/Army.cpp.o	13e6f1c52e9bcaf2
+3	47	1744906734186615718	build.ninja	5858438932e7a13d
+2	58	1744906734186615718	build.ninja	5858438932e7a13d
+4	689	1744907195077085477	CMakeFiles/GroupProjectpt2.dir/Game.cpp.o	6da4ac57dfb2e2e8
+689	747	1744907195762058733	GroupProjectpt2	7a55b1e3f47174b2

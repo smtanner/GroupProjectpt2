@@ -1,0 +1,3 @@
+/Users/tannersmith/CLionProjects/GroupProjectpt2/cmake-build-debug/CMakeFiles/GroupProjectpt2.dir
+/Users/tannersmith/CLionProjects/GroupProjectpt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tannersmith/CLionProjects/GroupProjectpt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
